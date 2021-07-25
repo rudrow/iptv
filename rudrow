@@ -21,7 +21,7 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
-http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=630566
+http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=642275
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="special", Channel 24 HD
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv
