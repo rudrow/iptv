@@ -14,7 +14,7 @@ http://103.157.237.18:8000/play/630
 http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="special",GAZI TV
 http://10.16.100.203:8082/bangla/gtv.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="special",71 TV
+#EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="special",Ekattor TV
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="special", DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
@@ -32,8 +32,13 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 
 http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="special", Bangla TV
+http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="special", Banglavision HD
+http://10.16.100.203:8082/bangla/vision_bangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="special", Asian TV
 http://10.16.100.203:8082/bangla/tv_asian.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png" group-title="special", ATN Bangla
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="special", Bijoy TV
+http://10.16.100.203:8082/bangla/bijoytv.m3u8
