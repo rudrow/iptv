@@ -1,0 +1,14 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment HD
+http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment SD
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV SD
+http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="special", Colors SD
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="special", Star Plus HD
+http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports HD
+http://103.157.237.18:8000/play/630
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports SD
+http://10.16.100.203:8082/bangla/T_sport_1stop.m3u8
