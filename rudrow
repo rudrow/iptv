@@ -18,7 +18,7 @@ http://10.16.100.203:8082/bangla/gtv.m3u8
 http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="special", DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News 24 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
 http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=630566
