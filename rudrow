@@ -42,3 +42,5 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="special", Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
+#EXTINF:-1 tvg-logo="https://blitapp.com/blog/articles/save-web-captures-to-ftp-server/ftp.png" group-title="Movie Server", Hindi
+http://172.16.50.9/SAM-FTP-1/
