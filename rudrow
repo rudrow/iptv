@@ -46,4 +46,9 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="special", Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", Gaan Bangla
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", ATN Music
+http://bdiptv.net:8080/ATNMusic/tracks-v1a1/mono.m3u8?token=87d17933db4fbdde18c66e6f1e3162afc5c58320-c50088db89aa6417c727c25862cac2a2-1627334985-1627324185
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", RTV Music
+https://tempx.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8?nimblesessionid=218903553&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDY6Mzk6MjggUE0maGFzaF92YWx1ZT1uTktxc1BGa2dsVWc4aGVJR2pyQm93PT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
