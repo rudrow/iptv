@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment HD
 http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment HD 2
+http://bdiptv.net:8080/SonyTVHD/tracks-v1a1/mono.m3u8?token=c7f08428f4487d75ef05ec80536fb4a2c07b6d58-d62ca876115d6456a182c174c9011374-1627332021-1627321221
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment SD
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV SD
@@ -21,7 +23,9 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
-http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=642275
+http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=9f1abca3fb3c196f66aa8376842349946e839c3c-3389ba27d1353f30dd507974fd8a9dc6-1627332231-1627321431
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="special",ATN News
+http://bdiptv.net:8080/ATNNews/tracks-v1a1/mono.m3u8?token=4bddb537778e4dbf9087ec482fddc1896d001b33-21757b53872b29fb0d27b1cebc84e799-1627331796-1627320996
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="special", Channel 24 HD
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv
@@ -42,5 +46,4 @@ http://10.16.100.203:8082/bangla/tv_asian.m3u8
 http://10.16.100.203:8082/bangla/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="special", Bijoy TV
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
-#EXTINF:-1 tvg-logo="https://blitapp.com/blog/articles/save-web-captures-to-ftp-server/ftp.png" group-title="Movie Server", Hindi
-http://172.16.50.9/SAM-FTP-1/
+
