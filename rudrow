@@ -29,7 +29,7 @@ http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv 2
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png " group-title="Bangla",Ntv
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 
@@ -48,5 +48,5 @@ http://10.16.100.203:8082/bangla/bijoytv.m3u8
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", ATN Music
 https://edge4.bioscopelive.com/hls/anonymous/y7wf7H2F9zkOXatpAiYEKA/1627405282/atn_music_hi/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", RTV Music
-https://tempx.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8?nimblesessionid=218903553&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNi8yMDIxIDY6Mzk6MjggUE0maGFzaF92YWx1ZT1uTktxc1BGa2dsVWc4aGVJR2pyQm93PT0mdmFsaWRtaW51dGVzPTUwJmlkPTU=
+#EXTINF:-1 group-title="Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music [BD]
+http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
