@@ -21,7 +21,7 @@ http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
 http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
-https://edge4.bioscopelive.com/hls/anonymous/blmJ43To47dtrCT_RHTVpQ/1627405045/shomoy_tv_low/index.m3u8
+http://tv.pmcon.net/hls/stream21.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="special",ATN News
 http://10.16.100.205/hls/news_atn_london720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="special", Channel 24 HD
