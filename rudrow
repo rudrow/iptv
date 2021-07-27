@@ -46,7 +46,7 @@ http://10.16.100.203:8082/bangla/atnbangla.m3u8
 http://10.16.100.203:8082/bangla/bijoytv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", Gaan Bangla
 http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo7wzmn.png" group-title="special", ATN Music
-https://edge4.bioscopelive.com/hls/anonymous/y7wf7H2F9zkOXatpAiYEKA/1627405282/atn_music_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x15351" group-title="Jagobd",ATN Music
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music [BD]
 http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
