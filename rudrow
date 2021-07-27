@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment HD
 http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment HD 2
-https://edge4.bioscopelive.com/hls/anonymous/K6-Vl0YteGNyuhDCn3R3ZA/1627404638/live-sony-hd_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="special", Sony Entertainment SD
 http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV SD
@@ -25,7 +23,7 @@ http://10.16.100.203:8082/bangla/24newshd_720.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
 https://edge4.bioscopelive.com/hls/anonymous/blmJ43To47dtrCT_RHTVpQ/1627405045/shomoy_tv_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="special",ATN News
-https://edge4.bioscopelive.com/hls/anonymous/SXcYneRpTc7OKMiTGbhD5Q/1627405414/atn_news_hi/index.m3u8
+http://10.16.100.205/hls/news_atn_london720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="special", Channel 24 HD
 http://10.16.100.205/hls/ch24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv
