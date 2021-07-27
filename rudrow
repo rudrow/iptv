@@ -5,7 +5,7 @@ http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV SD
 http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV HD
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="special", Colors SD
 http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="special", Star Plus HD
