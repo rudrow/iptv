@@ -36,6 +36,8 @@ http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 http://10.16.100.203:8082/bangla/TV_R.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 
 http://10.16.100.203:8082/bangla/nagorik.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 2
+http://tv.pmcon.net/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="special", Bangla TV
 http://10.16.100.203:8082/bangla/Banglatv_720.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HX8SSDA.png" group-title="special", Banglavision HD
