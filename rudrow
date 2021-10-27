@@ -11,7 +11,7 @@ http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="special", Star Plus HD
 http://10.16.100.208:8082/hindi/starplus_hd_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports HD
-http://103.157.237.18:8000/play/630
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports 2
 http://bdiptv.net:8080/TSports/tracks-v1a1/mono.m3u8?token=eeaec625474fe85986a7899b36f344e5176fc3b4-21748fa65db1ae8cb74b61e4877d958d-1635334040-1635323240
 #EXTINF:-1 group-title="special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
