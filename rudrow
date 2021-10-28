@@ -65,4 +65,4 @@ http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="special",Star Jalsha SD
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="special",Zee Bangla HD
-https://edge4.bioscopelive.com/hls/anonymous/lQ3xa2kw0QtLBD6q-X_SGg/1635334811/zee_bangla_hi/index.m3u8
+https://live.bongobd.com/hls/rdBrwcwMi6en7IIyBCyxXA/1635429468/zee_bangla_hi/index.m3u8
