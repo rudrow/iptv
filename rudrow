@@ -66,3 +66,5 @@ http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
 http://103.205.133.40/hls/chsj.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="special",Zee Bangla HD
 http://103.205.133.40/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/09/web-btv-n-1567436219502.jpg" group-title="special",BTV
+http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=3da87b10e8afd1407e78f38e922560190870dbad-10133538c115ee0a7346c543e7865628-1635452766-1635441966
