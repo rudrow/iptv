@@ -21,9 +21,9 @@ http://223.29.212.14:8089/1/index.m3u8?token=3a5bd54dfdf81341d90435ebf14dff09ca7
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="special",Ekattor TV
 https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635623505&md5=tEYG6R23Mf2iPriM0uHfcA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="special", DBC News
-http://10.16.100.203:8082/bangla/dbcnews.m3u8
+http://bdiptv.net:8080/DBCNews/tracks-v1a1/mono.m3u8?token=cc2bc4f77683662b0e5527d692fbc53f8cb667a9-91c6912a625a8ce2c7e42fa6dc2c166f-1635459697-1635448897
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
-http://10.16.100.203:8082/bangla/24newshd_720.m3u8
+http://bdiptv.net:8080/News24/tracks-v1a1/mono.m3u8?token=e7b4f9fd84897054a675fb6058ee5914ec7c6394-0eece1e08ed38be502ae3727c0dd8dff-1635459764-1635448964
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="special",Shomoy TV 2
@@ -31,19 +31,19 @@ http://bdiptv.net:8080/SomoyTv/tracks-v1a1/mono.m3u8?token=4bcd505d6b0c459b503bd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="special",ATN News
 http://10.16.100.208:8082/hindi/aTnNews_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmhxR5E.png" group-title="special", Channel 24 HD
-http://10.16.100.205/hls/ch24.m3u8
+http://bdiptv.net:8080/Channel24/tracks-v1a1/mono.m3u8?token=b985d9793710839fea9891357ab1c69a46b27748-9a20baa6f57f2b1ce885f91e5964ee09-1635459826-1635449026
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv
-http://10.16.100.203:8082/bangla/TV_R.m3u8
+http://bdiptv.net:8080/RTV/tracks-v1a1/mono.m3u8?token=47d8ea8630191546ff02022047282ccd9da580f1-923a8c6c3e6481b0e26f2806fd1edcbf-1635459866-1635449066
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG " group-title="special",Rtv 2
 http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="special", Channel I 1
-http://tv.pmcon.net/hls/stream18.m3u8
+http://10.16.100.203:8082/bangla/chenel_I.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png" group-title="special", Channel I 2
 http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png " group-title="special",Ntv
-http://10.16.100.203:8082/bangla/TV_R.m3u8
+http://bdiptv.net:8080/NTV/tracks-v1a1/mono.m3u8?token=082df9eafc4e5aaa5c8bffd69e7172e09b382b4c-d7773e5effff0bfb8ef2091ff3e84833-1635460115-1635449315
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://bdiptv.net:8080/NagorikTV/tracks-v1a1/mono.m3u8?token=1ae88cc61f88845ee8db8dad30b71ffef9105ba3-f7d9e5654b2c4c6dea25687432be0cad-1635460169-1635449369
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2cpHJKq.png" group-title="special", Nagorik TV 2
 http://tv.pmcon.net/hls/stream24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K43LsMQ.png" group-title="special", Bangla TV
