@@ -72,3 +72,5 @@ http://103.205.133.40/hls/zeebanglahd.m3u8
 http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=3da87b10e8afd1407e78f38e922560190870dbad-10133538c115ee0a7346c543e7865628-1635452766-1635441966
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Ekushey_Television_Logo.png" group-title="special",Ekushe TV
 http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="special",Test
+http://103.205.133.21/hls/dbcnews.m3u8?token=soheliptv01826655778
