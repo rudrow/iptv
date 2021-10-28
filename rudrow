@@ -19,7 +19,7 @@ http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="special",GAZI TV 2
 http://223.29.212.14:8089/1/index.m3u8?token=3a5bd54dfdf81341d90435ebf14dff09ca7928fe-de444f837b534f34149bf7b42aaba7d9-1635331249-1635320449&remote=43.250.83.83
 #EXTINF:-1 tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/1Y2Slm56uJ8.png" group-title="special",Ekattor TV
-http://bdiptv.net:8080/EkattorTV/tracks-v1a1/mono.m3u8?token=8239d2cd333a639005266153a6f978fcab137312-5a4a17f97f787e8a822f50d1759abc93-1635333911-1635323111
+https://edge01.iptv.digijadoo.net/live/ekattor_tv/chunks.m3u8?expires=1635623505&md5=tEYG6R23Mf2iPriM0uHfcA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="special", DBC News
 http://10.16.100.203:8082/bangla/dbcnews.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PbGS418.png" group-title="special", News24 HD
