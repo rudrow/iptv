@@ -5,7 +5,7 @@ http://10.16.100.208:8082/hindi/ztvhd_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="special", Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="special", Colors SD
-http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="special", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports HD
