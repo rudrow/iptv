@@ -9,11 +9,11 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="special", Star Plus HD
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports HD
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+http://bdiptv.net:8080/TSports/tracks-v1a1/mono.m3u8?token=67ba47b85d422b197e4b97fe13fa8fe7c0a2be8f-e92d8d35bb94788fa206f4a86cd58f01-1635460713-1635449913
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="special",T Sports 2
 http://bdiptv.net:8080/TSports/tracks-v1a1/mono.m3u8?token=eeaec625474fe85986a7899b36f344e5176fc3b4-21748fa65db1ae8cb74b61e4877d958d-1635334040-1635323240
 #EXTINF:-1 group-title="special" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
-http://223.29.212.14:8089/102/index.m3u8?token=887ce5c6669cb30600d726e6c757c6a91f442fc5-f11c3d3705107a95549773f258e9ef3f-1635331190-1635320390&remote=43.250.83.83
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="special",GAZI TV
 http://10.16.100.203:8082/bangla/TH-gazi_local.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="special",GAZI TV 2
@@ -68,3 +68,5 @@ http://103.205.133.40/hls/chsj.m3u8
 http://103.205.133.40/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://media-eng.dhakatribune.com/uploads/2019/09/web-btv-n-1567436219502.jpg" group-title="special",BTV
 http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=3da87b10e8afd1407e78f38e922560190870dbad-10133538c115ee0a7346c543e7865628-1635452766-1635441966
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Ekushey_Television_Logo.png" group-title="special",Ekushe TV
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
