@@ -63,6 +63,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="special" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music [BD]
 http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="special",Star Jalsha SD
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeebanglahd.jpg" group-title="special",Zee Bangla HD
 https://live.bongobd.com/hls/rdBrwcwMi6en7IIyBCyxXA/1635429468/zee_bangla_hi/index.m3u8
