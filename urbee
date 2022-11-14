@@ -390,7 +390,7 @@ http://cdn01.palki.tv/live/BTV-M/index.fmp4.m3u8
 http://cdn01.palki.tv/live/BTVWorld-M/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangladeshi",Btv Chittagong2
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
-#EXTINF:-1 ,group-title="Bangladeshi"Songsad TV2
+#EXTINF:-1 ,group-title="Bangladeshi",Songsad TV2
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
 #EXTINF:-1 group-title="Indian Bangla",STAR JALSHA HD2
 http://xtream.efiberbd.net:8080/live/mkaua/stream/6.m3u8
