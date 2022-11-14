@@ -5,7 +5,7 @@ http://103.118.76.146:1935/evolution/CHANNEL-I.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi",DEPTO BANGLA
 http://103.118.76.146:1935/evolution/Deepto.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi",GAZI TV
-http://45.127.244.7:8080/hls/channel1.m3u8
+http://45.127.244.7:8080/hls/channel2.m3u8http://45.127.244.7:8080/hls/channel2.m3u8
 #EXTINF:-1 group-title="Bangladeshi",CHANNEL 9
 http://103.118.76.146:1935/evolution/CHANNEL-9.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi",SATV
