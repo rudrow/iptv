@@ -1,3 +1,43 @@
+#EXTINF:-1 group-title="Special",ZEE BANGLA
+http://15.1.1.34:8282/zee-bangla/index.m3u8
+#EXTINF:-1 group-title="Special",Duronto TV
+http://15.1.1.10:8282/duronto-tv/index.m3u8
+#EXTINF:-1 group-title="Special",DBC NEWS
+http://15.1.1.10:8282/DBC-NEWS/index.m3u8
+#EXTINF:-1 group-title="Special",Maasranga
+http://15.1.1.38:8282/maasranga/index.m3u8
+#EXTINF:-1 group-title="Special",Independent-Tv
+http://15.1.1.34:8282/Independent-Tv/index.m3u8
+#EXTINF:-1 group-title="Special",Jamuna-tv
+http://15.1.1.10:8282/jamuna-tv/index.m3u8
+#EXTINF:-1 group-title="Special",ATN-Bangla
+http://15.1.1.38:8282/ATN-Bangla/index.m3u8
+#EXTINF:-1 group-title="Special",Ekushey-TV
+http://15.1.1.10:8282/Ekushey-TV/index.m3u8
+#EXTINF:-1 group-title="Special",AsianTV
+http://15.1.1.38:8282/AsianTV/index.m3u8
+#EXTINF:-1 group-title="Special",Bangla-tv
+http://15.1.1.34:8282/bangla-tv/index.m3u8
+#EXTINF:-1 group-title="Special",Depto-bangla
+http://15.1.1.38:8282/depto-bangla/index.m3u8
+#EXTINF:-1 group-title="Special",Nagorik-tv
+http://15.1.1.38:8282/nagorik-tv/index.m3u8
+#EXTINF:-1 group-title="Special",Anando-tv
+http://15.1.1.10:8282/anandotv/index.m3u8
+#EXTINF:-1 group-title="Special",GAZI-TV
+http://15.1.1.10:8282/GAZI-TV-HD/index.m3u8
+#EXTINF:-1 group-title="Special",T SPORTS
+http://15.1.1.10:8282/TSPORTS-HD/index.m3u8
+#EXTINF:-1 group-title="Special",Sony SPORTS
+http://15.1.1.38:8282/1LIVE/index.m3u8
+#EXTINF:-1 group-title="Special",Star Plus
+http://15.1.1.34:8282/star-plus/index.m3u8
+#EXTINF:-1 group-title="Special",Colors
+http://15.1.1.38:8282/colorsindia/index.m3u8
+#EXTINF:-1 group-title="Special",Zee TV
+http://15.1.1.10:8282/zee-tv-hd/index.m3u8
+#EXTINF:-1 group-title="Special",Sony TV
+http://15.1.5.10:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 ,Chennel i bioscopelive
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Maasranga Freecatv
