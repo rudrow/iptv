@@ -35,7 +35,7 @@ http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bijoy-tv.png" group-title="General", 12. BIJOY TV
 http://stream.amrbd.com:8082/BijoyTv/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="General", 12. EKHON TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="General", EKHON TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669131267/ei/o5d8Y4jWBemcg8UP3oW9qAI/ip/113.212.111.183/id/JikP1IVRRVs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJdc4I0CjxEQyrBRcoX-lyQyBTkDFnPfr7sJwxs5lnxbAiEAmN_g_Yd8_cU0ys3wXyhw3N7iuFe7dnbnz5sUwP0jb5g%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/somoy.png" group-title="News", 13. SOMOY TV
 http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
@@ -95,7 +95,7 @@ http://stream.amrbd.com:8082/anandotv/index.m3u8
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nexus-tv.png" group-title="General", 32. NEXUS TV HD
-http://iptvbd.jagobd.com:1931/live-orgin/nexustv.stream/chunks.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669131887/ei/D5p8Y96bDIbg4-EPrr6C6AU/ip/113.212.111.183/id/y319oRPQqvY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP87vWrDnBoWCQTaS95FY5udc_sfqMinvHcUSqQvz0AUAiEAwxpsq-Mohi6GTRifw0lB-HWNpDj-n2FxZPUY7q2RaRQ%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/global-tv.png" group-title="General", 33. GLOBAL TV HD
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
