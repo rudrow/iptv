@@ -93,6 +93,8 @@ http://stream.amrbd.com:8082/anandotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. T SPORTS HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. T SPORTS 2
+http://113.212.111.246:8080/hls/col2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nexus-tv.png" group-title="General", 32. NEXUS TV HD
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669131887/ei/D5p8Y96bDIbg4-EPrr6C6AU/ip/113.212.111.183/id/y319oRPQqvY.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP87vWrDnBoWCQTaS95FY5udc_sfqMinvHcUSqQvz0AUAiEAwxpsq-Mohi6GTRifw0lB-HWNpDj-n2FxZPUY7q2RaRQ%3D/file/index.m3u8
