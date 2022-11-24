@@ -279,5 +279,5 @@ http://stream.amrbd.com:8082/BBC_World/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/aljazeera.png" group-title="News", 90. AL JAZEERA
 http://15.1.5.10:8082/Aljazeera/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="Sports", Toffee Live
+#EXTINF:-1 tvg-logo="https://toffeelive.com/assets/images/toffee-icon.png" group-title="Sports", 91. Toffee Live
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
