@@ -35,8 +35,10 @@ http://stream.amrbd.com:8082/MohonaTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bijoy-tv.png" group-title="General", 12. BIJOY TV
 http://stream.amrbd.com:8082/BijoyTv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="General", EKHON TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669131267/ei/o5d8Y4jWBemcg8UP3oW9qAI/ip/113.212.111.183/id/JikP1IVRRVs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJdc4I0CjxEQyrBRcoX-lyQyBTkDFnPfr7sJwxs5lnxbAiEAmN_g_Yd8_cU0ys3wXyhw3N7iuFe7dnbnz5sUwP0jb5g%3D/file/index.m3u8
+http://cdn01.palki.tv/live/EkhonTV-M/index.fmp4.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/somoy.png" group-title="News", 13. SOMOY TV
 http://stream.amrbd.com:8082/Somoy-TV/index.m3u8
 
@@ -51,6 +53,9 @@ http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/channel24.png" group-title="News", 17. CHANNEL 24 HD
 http://stream.amrbd.com:8082/Channel24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gtv-hd.png" group-title="General", 18. GTV HD
+http://15.1.5.10:8082/GAZI-TV-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/gtv-hd.png" group-title="General", 18. GTV HD
 http://15.1.5.10:8082/GAZI-TV-HD/index.m3u8
@@ -83,7 +88,7 @@ http://stream.amrbd.com:8082/News24bd/index.m3u8
 http://stream.amrbd.com:8082/Bangla-TV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/duronto-tv.png" group-title="Kids", 28. DURONTO TV
-http://stream.amrbd.com:8082/Duronto_TV/index.m3u8
+http://89.187.185.89:3232/ban-duronto/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nagorik.png" group-title="General", 29. NAGORIK
 http://15.1.5.14:8082/nagorik-tv/index.m3u8
@@ -93,6 +98,7 @@ http://stream.amrbd.com:8082/anandotv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. T SPORTS HD
 http://15.1.5.14:8082/TSPORTS-HD/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/t-sports.png" group-title="Sports", 31. T SPORTS 2
 http://113.212.111.246:8080/hls/col2.m3u8
 
@@ -101,8 +107,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669131887/ei/D
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/global-tv.png" group-title="General", 33. GLOBAL TV HD
 http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/chunks.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bangla-hd.png" group-title="Entertainment", 34. ZEE BANGLA HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/index.m3u8
@@ -122,8 +126,6 @@ http://15.1.5.10:8082/enterr10-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sun-bangla.png" group-title="Entertainment", 39. SUN BANGLA
 http://15.1.5.10:8082/sunbangla/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-tv-hd.png" group-title="Entertainment", 40. ZEE TV HD
 http://stream.amrbd.com:8082/Zee-Hd/index.m3u8
 
@@ -142,15 +144,11 @@ http://stream.amrbd.com:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sony-sab-hd.png" group-title="Entertainment", 45. SONY SAB HD
 http://stream.amrbd.com:8082/Sony_Sab/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-bangla-cinema.png" group-title="Movies", 46. ZEE BANGLA CINEMA
 http://15.1.5.14:8082/zee-bangla-cinema/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/jalsha-movies-hd.png" group-title="Movies", 47. JALSHA MOVIES HD
 http://15.1.5.10:8082/jalsha-movies/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/zee-cinema-hd.png" group-title="Movies", 48. ZEE CINEMA HD
 http://stream.amrbd.com:8082/ZeeCinemaHD/index.m3u8
@@ -173,8 +171,6 @@ http://15.1.5.10:8082/AND-FLIX/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/dhinchaak-2.png" group-title="Movies", 54. DHINCHAAK 2
 http://15.1.5.10:8082/Dhinchaak/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-movies-hd.png" group-title="Movies", 55. STAR MOVIES HD
 http://15.1.5.14:8082/star-movies-hd/index.m3u8
 
@@ -192,8 +188,6 @@ http://stream.amrbd.com:8082/MNX-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/lotus-macau.png" group-title="Movies", 60. LOTUS MACAU
 http://15.1.5.10:8082/Lotus-Macau/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/sangeet-bangla.png" group-title="Music", 61. SANGEET BANGLA
 http://15.1.5.14:8082/sangeet-bangla/index.m3u8
@@ -218,8 +212,6 @@ http://15.1.5.14:8082/b4u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bindass.png" group-title="Music", 68. BINDASS
 http://stream.amrbd.com:8082/Bindass/index.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/star-sports-1-hd.png" group-title="Sports", 79. STAR SPORTS 1 HD
 http://15.1.5.10:8082/STAR-SPORTS-1/index.m3u8
@@ -251,8 +243,6 @@ http://15.1.5.10:8082/PTV-SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/ten-sports-hd.png" group-title="Sports", 78. TEN SPORTS HD
 http://stream.amrbd.com:8082/Ten-Sports/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/national-geographic-hd.png" group-title="Infotainment", 79. NATIONAL GEOGRAPHIC HD
 http://stream.amrbd.com:8082/Nat-Geo/index.m3u8
 
@@ -277,18 +267,17 @@ http://stream.amrbd.com:8082/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/discovery-science.png" group-title="Infotainment", 86. DISCOVERY SCIENCE
 http://15.1.5.10:8082/Discovery-Science/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/discovery-kids.png" group-title="Kids", 87. DISCOVERY KIDS
 http://15.1.5.14:8082/discovery-kid/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/nick.png" group-title="Kids", 88. NICK
 http://15.1.5.10:8082/nick-jr/index.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/bbc-news.png" group-title="News", 89. BBC NEWS
 http://stream.amrbd.com:8082/BBC_World/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/amdad121/iptv/main/logo/aljazeera.png" group-title="News", 90. AL JAZEERA
 http://15.1.5.10:8082/Aljazeera/index.m3u8
+
+#EXTINF:-1 ,tvg-logo="data:image/jpeg;base64,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	" group-title="Sports", Toffee Live
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
