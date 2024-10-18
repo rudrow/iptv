@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,Zee Bangla 1
 http://217.20.112.199/zeebangla/index.m3u8
+#EXTINF:-1 ,Zee Bangla 2
+http://217.20.112.199:8888/zeebangla/index.m3u8
+#EXTINF:-1 ,Star Jalsha HD
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
+#EXTINF:-1 ,Star Jalsha HD 2
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 ,Star Jalsha HD 3
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
