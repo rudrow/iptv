@@ -3,13 +3,15 @@
 http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1 ,Zee Bangla 2
 http://217.20.112.199:8888/zeebangla/index.m3u8
-#EXTINF:-1 ,Zee Bangla (30min Left)
+#EXTINF:-1 ,Zee Bangla 3 (30min Left)
 https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
-#EXTINF:-1 ,Star Jalsha HD
-http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
-#EXTINF:-1 ,Star Jalsha HD 2
-https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-#EXTINF:-1 ,Star Jalsha HD 3
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
-#EXTINF:-1,ZEE BANGLA HD
+#EXTINF:-1,ZEE BANGLA 4
 http://103.124.251.164:28015/play/a00v/index.m3u8
+#EXTINF:-1 ,Star Jalsha 1
+http://bd.ottbd.online:2082/live/Durjoy859/01327184859/7951.m3u8
+#EXTINF:-1 ,Star Jalsha 2
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1 ,Star Jalsha 3
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+#EXTINF:-1,STAR JALSHA 4
+http://103.124.251.164:28015/play/a009/index.m3u8
